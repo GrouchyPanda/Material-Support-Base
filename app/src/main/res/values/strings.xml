@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Design Template</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_item_1">Item 1</string>
+    <string name="navigation_item_2">Item 2</string>
+    <string name="navigation_subheader">Subheader</string>
+    <string name="navigation_sub_item_1">Sub Item 1</string>
+    <string name="navigation_sub_item_2">Sub Item 2</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum diam
+        felis, accumsan ut risus sit amet, lobortis feugiat justo. Suspendisse sagittis orci eu
+        posuere aliquam. Aenean tempus risus sit amet sollicitudin viverra. Pellentesque porttitor
+        odio tincidunt, sollicitudin diam nec, consectetur ex. Aenean maximus vestibulum ante, sed
+        maximus eros vestibulum ac. Vivamus mattis eget velit eget mollis. Phasellus a varius nulla.
+        Suspendisse ultricies ex at dolor maximus tincidunt. Morbi finibus interdum purus ac varius.
+        In hac habitasse platea dictumst. Integer suscipit mi ultrices aliquet consequat. Praesent
+        ligula tortor, pellentesque in purus sit amet, tincidunt ullamcorper libero. Quisque
+        suscipit mattis fermentum. Sed.</string>
+</resources>
